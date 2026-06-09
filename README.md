@@ -5,8 +5,8 @@ Tracking my SQL learning and problem-solving progress.
 # Progress
 
 * Started: June 2026
-* Total Problems Solved: 1
-* Easy: 1
+* Total Problems Solved: 2
+* Easy: 2
 * Medium: 0
 * Hard: 0
 
@@ -17,3 +17,10 @@ Tracking my SQL learning and problem-solving progress.
        * SELECT
        * WHERE
        * NULL Handling
+  # 2. Invalid Tweets
+     # Difficulty : Easy
+     # Topics Covered
+       * SELECT
+       * WHERE
+       * LENGTH()
+     
